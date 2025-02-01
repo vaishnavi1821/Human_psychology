@@ -1,0 +1,223 @@
+ID,Age,Gender,Personality Type,Emotional Stability,Anxiety Level,Depression Level,Stress Level,Social Interaction,Sleep Hours,Daily Screen Time,Coping Mechanism,Optimism Score,Self-Esteem Level,Decision-Making Ability,Memory Recall Score,Risk-Taking Behavior,Satisfaction with Life
+303039,42,Other,Extrovert,Medium,Medium,Low,High,Moderate,5.5,7.8,Gaming,2,High,Poor,81,High,Neutral
+303040,47,Male,Introvert,Low,High,High,Low,High,7.2,9.4,Reading,7,High,Excellent,58,High,Satisfied
+303041,59,Male,Ambivert,Medium,Low,Medium,High,Moderate,4.4,5.6,Reading,1,High,Good,98,High,Satisfied
+303042,60,Other,Ambivert,Low,High,Medium,Low,Moderate,8.7,2,Meditation,7,Low,Poor,98,High,Satisfied
+303043,29,Male,Introvert,Low,Low,High,Low,High,7.3,7.6,Music,3,High,Average,81,High,Very Satisfied
+303044,48,Female,Introvert,Medium,Medium,Low,Low,Moderate,8.6,9.9,Reading,9,Low,Poor,74,High,Very Satisfied
+303045,60,Male,Extrovert,Low,Low,Low,High,Moderate,8.9,4.6,Reading,7,High,Poor,95,High,Satisfied
+303046,56,Male,Ambivert,Medium,Low,Low,Medium,Low,5.2,4,Gaming,2,Low,Excellent,86,Low,Dissatisfied
+303047,59,Male,Ambivert,Medium,Medium,High,High,High,8.5,6.7,Talking to friends,2,Low,Poor,73,High,Very Satisfied
+303048,56,Female,Introvert,Medium,High,High,Low,Low,6.5,5,Exercise,1,Medium,Good,100,High,Neutral
+303049,25,Other,Extrovert,Medium,Medium,High,Low,High,5.8,6,Gaming,4,Medium,Average,75,Low,Dissatisfied
+303050,31,Female,Ambivert,High,Medium,Medium,Low,Moderate,8.3,4.1,Exercise,5,Low,Excellent,61,Low,Dissatisfied
+303051,55,Female,Extrovert,Medium,High,High,Medium,Moderate,4.8,4.1,Journaling,1,High,Excellent,51,Medium,Neutral
+303052,44,Female,Extrovert,Medium,High,Low,Medium,Low,8.5,6.9,Meditation,2,High,Excellent,76,High,Dissatisfied
+303053,32,Other,Ambivert,Low,Medium,Low,Medium,High,4.5,4.6,Talking to friends,7,Low,Average,97,Low,Very Satisfied
+303054,23,Male,Extrovert,Low,Low,High,High,Low,5.9,4.8,Exercise,3,Medium,Good,76,Low,Satisfied
+303055,30,Other,Ambivert,Medium,High,Low,High,Low,6.7,5,Gaming,1,Medium,Average,62,Low,Very Satisfied
+303056,32,Other,Extrovert,Medium,Medium,Low,Low,High,8.8,2.2,Exercise,4,Low,Poor,51,Medium,Dissatisfied
+303057,41,Male,Extrovert,High,High,Medium,Medium,Moderate,5.1,4.3,Exercise,8,High,Poor,54,Medium,Very Satisfied
+303058,40,Other,Introvert,High,Medium,Medium,Medium,Low,5,9.8,Reading,5,High,Poor,68,Low,Satisfied
+303059,25,Male,Ambivert,Low,Medium,Low,Low,Low,8.6,4.5,Exercise,4,Medium,Good,96,Low,Dissatisfied
+303060,19,Female,Introvert,High,Low,Low,Medium,Moderate,7.5,4.7,Music,5,Low,Poor,84,Medium,Satisfied
+303061,49,Male,Extrovert,High,Low,Low,Low,Low,6.9,3.8,Reading,6,High,Excellent,87,Low,Very Satisfied
+303062,58,Female,Extrovert,Low,High,High,Medium,Low,5,3.2,Journaling,6,High,Excellent,76,High,Dissatisfied
+303063,60,Other,Introvert,Medium,Low,Low,Medium,High,6.4,8.1,Journaling,7,Medium,Poor,98,High,Satisfied
+303064,54,Male,Extrovert,Low,High,Medium,High,High,8,5.4,Music,9,Low,Average,92,Medium,Dissatisfied
+303065,22,Male,Introvert,Low,High,Low,High,High,7.6,3.7,Reading,3,Medium,Poor,54,High,Very Satisfied
+303066,36,Male,Ambivert,Low,High,Low,High,Moderate,7.5,4.5,Gaming,1,Low,Good,79,High,Very Satisfied
+303067,22,Other,Ambivert,High,Low,Medium,Medium,Low,4.4,3.2,Gaming,5,High,Poor,100,Low,Satisfied
+303068,59,Female,Extrovert,Medium,High,Low,High,Low,5.6,3.6,Meditation,4,Medium,Excellent,76,High,Satisfied
+303069,53,Male,Introvert,High,Low,Low,High,Low,6.5,8.5,Reading,6,Medium,Good,98,Medium,Satisfied
+303070,23,Other,Ambivert,High,High,Medium,Low,Low,4.4,5.6,Reading,3,Medium,Good,66,Low,Dissatisfied
+303071,33,Male,Introvert,Medium,High,Medium,High,Moderate,4.7,8.1,Journaling,10,Medium,Good,50,Low,Dissatisfied
+303072,34,Other,Extrovert,Low,High,Low,High,Moderate,4.7,2.9,Music,1,Low,Average,55,High,Very Satisfied
+303073,59,Other,Introvert,Low,Low,Medium,Medium,High,8.5,7.6,Music,9,Low,Poor,64,Medium,Dissatisfied
+303074,46,Male,Extrovert,High,Low,Medium,Low,Moderate,7.6,9.1,Music,3,Medium,Good,72,Medium,Neutral
+303075,30,Male,Extrovert,Medium,Medium,High,Medium,High,4.8,5,Meditation,6,High,Average,71,Medium,Satisfied
+303076,44,Male,Introvert,High,Medium,Medium,High,Low,6.1,8.9,Exercise,5,Low,Excellent,94,Low,Dissatisfied
+303077,33,Male,Ambivert,Medium,Medium,Low,Low,Low,5.1,8.3,Talking to friends,6,Low,Excellent,91,Low,Dissatisfied
+303078,28,Female,Ambivert,High,Medium,Medium,High,High,5.8,5.1,Gaming,6,Medium,Poor,100,Low,Satisfied
+303079,38,Other,Ambivert,High,High,Low,Low,Moderate,7.3,6.9,Meditation,6,Medium,Poor,63,High,Satisfied
+303080,32,Male,Ambivert,High,High,High,Medium,High,8.4,7.8,Music,7,High,Poor,80,High,Very Satisfied
+303081,20,Male,Ambivert,High,Medium,Low,Low,High,8.3,5.8,Journaling,8,Low,Average,77,Low,Very Satisfied
+303082,27,Other,Introvert,Medium,Medium,Medium,Medium,Low,5.1,7.4,Music,2,High,Poor,53,High,Very Satisfied
+303083,22,Female,Introvert,High,Low,High,Low,High,7.2,8.1,Talking to friends,4,Low,Poor,82,Low,Very Satisfied
+303084,59,Male,Ambivert,High,Medium,Medium,High,High,6.1,7.7,Gaming,8,Medium,Good,73,Medium,Neutral
+303085,21,Other,Introvert,Low,Low,High,Low,Moderate,4.2,5.9,Music,9,Low,Average,92,Medium,Very Satisfied
+303086,32,Female,Extrovert,Medium,Low,Medium,High,Moderate,4.9,9,Exercise,2,Medium,Poor,80,Medium,Neutral
+303087,52,Other,Introvert,Low,High,High,Low,High,4.2,3,Gaming,6,Low,Excellent,94,Medium,Neutral
+303088,49,Female,Introvert,Medium,Medium,High,Medium,Moderate,4.3,4.7,Gaming,9,Low,Good,71,Low,Satisfied
+303089,49,Male,Ambivert,Low,High,Medium,Low,Low,7.4,3.4,Meditation,2,High,Good,78,Medium,Neutral
+303090,47,Male,Extrovert,High,Medium,Low,Low,Low,9,6.9,Talking to friends,2,High,Average,62,High,Neutral
+303091,30,Other,Extrovert,High,High,High,Medium,Moderate,4.4,4.8,Gaming,8,Medium,Average,72,High,Neutral
+303092,24,Male,Ambivert,Low,Low,Low,High,Moderate,7,6.8,Talking to friends,10,Low,Poor,77,High,Neutral
+303093,35,Female,Ambivert,Medium,High,High,Low,Low,7.7,4.4,Journaling,10,High,Average,59,High,Dissatisfied
+303094,49,Male,Introvert,Low,Medium,High,High,High,8.8,2.5,Reading,5,Medium,Excellent,93,Medium,Satisfied
+303095,49,Male,Introvert,Low,Medium,Medium,Medium,Moderate,8.5,7.2,Exercise,8,Medium,Poor,77,High,Very Satisfied
+303096,28,Female,Ambivert,High,High,Low,Medium,Moderate,6,5.7,Reading,1,Medium,Poor,99,Low,Neutral
+303097,20,Other,Introvert,Low,Low,Medium,High,Low,5.3,2.4,Gaming,5,Low,Good,91,Medium,Very Satisfied
+303098,30,Male,Introvert,High,Low,High,Medium,Low,4.6,2.6,Exercise,3,Low,Good,56,Low,Satisfied
+303099,22,Male,Ambivert,High,Medium,Low,High,High,8.3,7.8,Talking to friends,7,Medium,Excellent,98,Low,Satisfied
+303100,51,Female,Introvert,High,High,High,Low,Moderate,5.8,2.6,Exercise,4,High,Average,83,Medium,Very Satisfied
+303101,55,Other,Ambivert,Low,Low,Medium,High,Low,8.9,9.9,Music,5,Medium,Average,92,Medium,Very Satisfied
+303102,36,Female,Introvert,High,Low,Low,Low,High,4.2,4.3,Meditation,2,High,Poor,84,Low,Dissatisfied
+303103,20,Female,Introvert,High,Low,Low,Medium,Moderate,7.3,2.5,Gaming,4,Low,Excellent,66,Medium,Satisfied
+303104,20,Other,Ambivert,Medium,Medium,High,High,Moderate,7,9.2,Talking to friends,9,Medium,Poor,79,Medium,Dissatisfied
+303105,37,Male,Introvert,High,Medium,High,Low,Low,5.1,7.8,Music,7,Medium,Poor,85,Medium,Neutral
+303106,34,Other,Introvert,Low,Medium,High,High,Moderate,4.5,2.2,Journaling,5,Low,Poor,61,Medium,Dissatisfied
+303107,28,Female,Ambivert,Medium,High,Low,Medium,Low,6.1,3.1,Journaling,1,Low,Excellent,92,High,Neutral
+303108,36,Female,Extrovert,High,Low,Low,Medium,Moderate,8.3,2.8,Music,9,Medium,Good,55,High,Satisfied
+303109,47,Other,Extrovert,Low,Low,Low,High,Moderate,7.5,9.8,Exercise,3,Low,Poor,63,Medium,Satisfied
+303110,30,Male,Extrovert,Low,Medium,High,Medium,Low,8.9,3.9,Reading,5,Medium,Good,68,Medium,Very Satisfied
+303111,25,Other,Ambivert,High,Low,High,Low,Moderate,4.5,4.7,Gaming,5,Medium,Average,60,Low,Dissatisfied
+303112,19,Male,Extrovert,High,High,Medium,High,High,8.4,6.2,Music,4,Medium,Average,79,High,Dissatisfied
+303113,42,Other,Ambivert,Medium,Low,Medium,High,Low,7.1,2.3,Journaling,1,Low,Average,50,Medium,Neutral
+303114,42,Other,Ambivert,Medium,Medium,High,Low,Moderate,5.2,5.7,Journaling,5,High,Poor,63,High,Neutral
+303115,49,Female,Introvert,Low,Medium,Medium,High,Low,6.7,6.5,Exercise,4,Medium,Good,55,Low,Dissatisfied
+303116,42,Female,Introvert,Medium,High,Low,Low,Moderate,5.6,3.4,Journaling,1,Medium,Poor,91,High,Dissatisfied
+303117,39,Other,Ambivert,High,Low,Low,Medium,Low,5.3,2.3,Music,1,Medium,Good,83,Low,Satisfied
+303118,57,Female,Introvert,High,Medium,Low,Low,Low,7.6,5,Exercise,6,High,Average,53,High,Dissatisfied
+303119,29,Female,Extrovert,Medium,Medium,Medium,High,Low,5.2,5.5,Music,3,Medium,Good,53,Medium,Neutral
+303120,20,Male,Extrovert,Low,Low,Medium,Low,High,4.1,3.7,Reading,1,Medium,Average,88,High,Satisfied
+303121,40,Other,Introvert,Medium,High,Low,High,Low,8.3,5.5,Music,4,High,Excellent,77,High,Very Satisfied
+303122,49,Other,Introvert,Medium,High,Low,Medium,High,6.6,2.1,Gaming,5,High,Poor,80,Low,Very Satisfied
+303123,18,Female,Extrovert,Medium,Medium,High,Medium,Low,6.2,6.4,Exercise,6,Medium,Average,50,Low,Very Satisfied
+303124,40,Other,Introvert,High,High,High,Low,High,7.5,9,Exercise,5,Medium,Good,77,Medium,Satisfied
+303125,57,Female,Ambivert,Medium,Medium,Low,Medium,High,7.4,7.2,Music,7,Low,Excellent,83,Low,Dissatisfied
+303126,40,Other,Extrovert,Medium,High,Medium,High,High,5.7,3.2,Meditation,4,High,Excellent,57,Medium,Neutral
+303127,22,Other,Ambivert,Low,Medium,Low,Low,High,7,4.6,Meditation,9,Low,Good,77,Low,Satisfied
+303128,19,Other,Extrovert,Low,High,Low,Medium,High,6.1,8.4,Reading,2,High,Excellent,87,Medium,Satisfied
+303129,48,Female,Extrovert,Medium,Low,High,High,High,4.8,4.2,Reading,8,Low,Excellent,74,High,Very Satisfied
+303130,28,Female,Introvert,Low,Medium,Medium,High,Low,5.1,4.6,Reading,10,High,Excellent,88,High,Neutral
+303131,27,Female,Introvert,Medium,High,High,Medium,Low,5.9,9.2,Music,1,High,Excellent,83,Low,Dissatisfied
+303132,53,Other,Extrovert,Low,High,Low,Low,Low,7.7,9.4,Reading,4,High,Good,51,Medium,Neutral
+303133,19,Male,Introvert,Medium,Medium,Low,High,Low,8.7,5.1,Music,2,Low,Poor,66,Medium,Neutral
+303134,49,Male,Extrovert,High,Low,High,Low,High,8.3,5.7,Meditation,7,High,Poor,71,Medium,Dissatisfied
+303135,27,Male,Extrovert,Low,Medium,Low,High,High,5.3,2.7,Reading,1,High,Excellent,89,Medium,Dissatisfied
+303136,54,Female,Introvert,High,Low,Medium,Medium,Moderate,7.6,4.6,Music,6,Low,Good,93,High,Neutral
+303137,26,Female,Ambivert,Medium,Low,Low,Low,Moderate,6.5,3.5,Exercise,6,Medium,Excellent,52,Medium,Very Satisfied
+303138,34,Male,Introvert,High,High,High,Medium,Low,7.1,9.7,Gaming,3,High,Excellent,73,Low,Very Satisfied
+303139,18,Male,Extrovert,High,Medium,Low,Medium,Moderate,4.1,9,Music,8,Low,Excellent,66,Low,Very Satisfied
+303140,49,Other,Ambivert,High,High,Medium,Medium,High,9,8.6,Reading,2,Medium,Poor,81,Medium,Satisfied
+303141,60,Male,Extrovert,Low,Medium,Low,High,Low,6.6,5.6,Music,9,Medium,Average,100,Medium,Dissatisfied
+303142,27,Other,Ambivert,Medium,Low,Medium,Medium,High,8.2,2.8,Music,1,Medium,Excellent,82,Medium,Dissatisfied
+303143,58,Other,Ambivert,Low,Low,High,Medium,Moderate,7.4,8.6,Gaming,6,Medium,Average,64,Medium,Very Satisfied
+303144,19,Female,Extrovert,Low,Medium,High,Medium,Moderate,5.2,8,Meditation,5,Low,Excellent,82,High,Very Satisfied
+303145,40,Other,Ambivert,Medium,Low,High,Low,High,5,8.9,Exercise,9,Medium,Poor,73,Medium,Satisfied
+303146,45,Female,Ambivert,High,High,Low,High,High,8.3,4.5,Exercise,8,High,Excellent,57,Medium,Neutral
+303147,58,Female,Ambivert,Low,Medium,High,Medium,Low,6.5,4.7,Exercise,10,High,Good,93,High,Satisfied
+303148,24,Female,Introvert,Medium,Low,Low,Low,Low,6.6,8.1,Reading,5,Low,Poor,69,Medium,Satisfied
+303149,21,Male,Extrovert,Low,Low,High,Low,Low,7.8,2.4,Reading,4,Medium,Average,56,Medium,Very Satisfied
+303150,33,Female,Ambivert,Low,Low,Low,Low,Low,5.4,8.1,Music,8,Medium,Poor,86,Low,Dissatisfied
+303151,40,Female,Introvert,Low,Low,Medium,Low,Moderate,4.7,2.8,Gaming,2,High,Poor,95,Low,Satisfied
+303152,59,Male,Extrovert,Medium,High,Medium,Medium,Low,6,9.6,Reading,5,Low,Poor,77,Medium,Dissatisfied
+303153,29,Female,Extrovert,Low,Low,Medium,High,Low,7.5,8.5,Journaling,1,High,Good,63,Medium,Very Satisfied
+303154,56,Other,Extrovert,Low,High,High,Medium,High,7.3,9.8,Exercise,9,Low,Average,99,Medium,Very Satisfied
+303155,43,Male,Introvert,Low,Medium,Medium,High,Low,6.2,6.5,Exercise,5,High,Poor,62,Medium,Dissatisfied
+303156,41,Male,Introvert,Low,High,High,Low,Low,5.7,4.3,Journaling,4,High,Average,100,Medium,Neutral
+303157,19,Female,Introvert,Medium,Low,Medium,Medium,High,6.6,6.5,Gaming,5,Low,Average,66,Medium,Dissatisfied
+303158,24,Female,Extrovert,Medium,High,High,High,Low,6.8,5.8,Reading,8,Medium,Average,95,Low,Very Satisfied
+303159,45,Female,Extrovert,Medium,High,Medium,Medium,Moderate,6.4,3,Journaling,1,Low,Average,72,Medium,Neutral
+303160,32,Male,Ambivert,Low,Medium,Low,Low,Low,8.8,8.9,Gaming,6,High,Excellent,69,Low,Satisfied
+303161,52,Female,Extrovert,High,Medium,Low,Medium,Low,8.1,8.5,Reading,2,High,Poor,60,Low,Satisfied
+303162,24,Male,Ambivert,Low,Low,Low,Low,Low,6.3,4.3,Journaling,1,Medium,Average,50,Medium,Very Satisfied
+303163,42,Female,Ambivert,Medium,Low,High,Low,Moderate,7.7,6.9,Music,3,High,Good,100,Low,Very Satisfied
+303164,43,Female,Extrovert,High,Low,Medium,High,Low,7.1,9.3,Reading,1,High,Excellent,61,Medium,Neutral
+303165,47,Other,Ambivert,Low,Medium,Low,High,High,4.1,9.9,Journaling,4,High,Average,85,Low,Very Satisfied
+303166,54,Male,Ambivert,High,High,Low,High,Moderate,5.8,3.9,Journaling,5,Low,Excellent,68,High,Very Satisfied
+303167,43,Male,Ambivert,Low,Low,High,Medium,Moderate,8.7,8.5,Reading,3,High,Good,54,High,Dissatisfied
+303168,51,Male,Ambivert,High,High,High,High,High,7.8,5,Meditation,3,Low,Excellent,72,High,Neutral
+303169,55,Female,Ambivert,Medium,Medium,Low,Medium,High,4.6,5,Music,8,Medium,Average,61,High,Very Satisfied
+303170,32,Other,Introvert,Low,Low,Low,Medium,High,7.2,3.5,Meditation,2,High,Excellent,84,Medium,Dissatisfied
+303171,25,Female,Extrovert,Low,Medium,High,Low,High,5.4,4.9,Meditation,2,High,Average,99,High,Dissatisfied
+303172,54,Other,Introvert,Low,Low,High,High,Low,8.3,5.5,Music,9,Low,Poor,98,Low,Very Satisfied
+303173,60,Male,Introvert,High,Low,High,Medium,Moderate,8.5,7.3,Music,5,Medium,Average,72,Low,Satisfied
+303174,60,Male,Extrovert,High,Medium,Medium,Medium,Low,7.6,2.4,Exercise,10,Low,Poor,69,Low,Dissatisfied
+303175,23,Male,Extrovert,Low,High,Low,Low,Low,7.8,3.9,Music,8,Medium,Poor,86,Medium,Dissatisfied
+303176,53,Male,Extrovert,High,Medium,High,Medium,Low,5.1,8.2,Exercise,1,Medium,Good,79,Low,Very Satisfied
+303177,22,Other,Introvert,High,Low,Low,Medium,High,8.3,2.5,Reading,3,Low,Excellent,94,Low,Dissatisfied
+303178,35,Male,Introvert,Low,Low,Medium,Low,High,4.9,6.3,Music,6,Low,Average,100,High,Very Satisfied
+303179,57,Other,Ambivert,High,Low,High,Low,Moderate,4.8,2.2,Music,2,High,Excellent,86,High,Dissatisfied
+303180,34,Male,Ambivert,High,High,Medium,Medium,Moderate,7.9,5.6,Talking to friends,9,High,Excellent,95,Medium,Dissatisfied
+303181,39,Male,Ambivert,High,High,High,Medium,High,5.9,7,Journaling,10,High,Good,61,Medium,Neutral
+303182,54,Female,Ambivert,Medium,Low,Medium,Low,High,6.7,3.2,Meditation,8,High,Excellent,84,Low,Very Satisfied
+303183,57,Female,Extrovert,Medium,Low,High,High,Moderate,6.5,9.6,Music,8,Medium,Good,61,Low,Dissatisfied
+303184,26,Male,Extrovert,High,High,Low,Low,High,7.9,8.1,Talking to friends,9,Low,Excellent,100,Medium,Very Satisfied
+303185,27,Other,Introvert,Low,Medium,Low,High,Moderate,8,2.3,Meditation,5,Low,Excellent,51,High,Neutral
+303186,29,Other,Introvert,Low,High,Low,Low,Low,6.9,3.8,Gaming,1,Low,Good,98,Medium,Very Satisfied
+303187,38,Other,Introvert,Low,High,High,Low,Low,6.1,3.5,Talking to friends,2,Medium,Good,88,Low,Very Satisfied
+303188,32,Male,Extrovert,Medium,Medium,High,Low,Moderate,4.9,6.4,Talking to friends,3,High,Good,59,High,Satisfied
+303189,51,Male,Introvert,Low,Medium,Medium,High,Moderate,4.4,4.9,Music,8,Medium,Poor,89,Medium,Satisfied
+303190,21,Female,Ambivert,High,Medium,Low,High,High,4.1,6.5,Music,1,Low,Poor,73,Low,Neutral
+303191,53,Female,Ambivert,Low,Low,High,Medium,Low,5.8,8.5,Meditation,9,Low,Excellent,94,High,Satisfied
+303192,34,Female,Extrovert,Low,High,Low,Low,Low,4.9,4.7,Exercise,2,Medium,Average,69,High,Satisfied
+303193,44,Female,Introvert,Medium,Medium,High,High,Low,7.6,2.3,Talking to friends,6,Medium,Excellent,88,High,Satisfied
+303194,45,Female,Extrovert,Medium,Medium,High,High,High,4.1,6.8,Meditation,6,High,Excellent,75,High,Very Satisfied
+303195,37,Other,Extrovert,Low,High,High,Medium,Low,5,9.5,Reading,2,Low,Poor,89,Low,Neutral
+303196,56,Female,Extrovert,Medium,Medium,Medium,High,Low,9,4.3,Exercise,3,Medium,Good,84,Low,Dissatisfied
+303197,60,Male,Extrovert,Medium,Medium,High,Medium,Low,7.2,4.8,Gaming,6,Low,Poor,97,High,Neutral
+303198,33,Other,Introvert,Low,Medium,Medium,Low,High,8.7,5.5,Journaling,3,Low,Excellent,63,Low,Satisfied
+303199,26,Other,Ambivert,Medium,Low,Medium,High,High,8.1,3.6,Talking to friends,8,Low,Poor,78,High,Satisfied
+303200,18,Female,Extrovert,High,High,Medium,Low,Moderate,6.9,5.8,Music,3,High,Excellent,98,Medium,Dissatisfied
+303201,36,Male,Extrovert,High,Low,Low,High,Low,8.6,3.3,Exercise,5,Medium,Good,55,High,Satisfied
+303202,24,Male,Extrovert,Medium,Medium,High,Low,Low,5.9,4.8,Music,2,Medium,Average,69,Medium,Satisfied
+303203,58,Female,Ambivert,Medium,High,Medium,Medium,Moderate,6.7,3,Reading,2,Medium,Good,80,Low,Neutral
+303204,24,Female,Ambivert,Medium,Medium,High,Medium,High,6.9,5.7,Reading,5,Low,Good,76,Low,Very Satisfied
+303205,60,Female,Extrovert,Low,High,Medium,High,Low,6.6,4.9,Meditation,10,Medium,Good,59,Low,Dissatisfied
+303206,33,Female,Ambivert,Low,High,Medium,Low,Low,6.8,2.3,Exercise,6,Low,Poor,55,High,Satisfied
+303207,51,Female,Introvert,Medium,Low,High,High,High,4.6,8.4,Gaming,8,Medium,Average,68,High,Dissatisfied
+303208,37,Female,Introvert,Low,High,Medium,High,Low,7.7,4,Reading,7,Low,Good,67,High,Neutral
+303209,43,Male,Ambivert,Low,Medium,High,Medium,Moderate,6.2,4.2,Music,2,Low,Poor,64,Low,Satisfied
+303210,43,Female,Extrovert,Low,High,Medium,Low,Low,7.1,8.7,Meditation,1,Low,Good,86,Low,Satisfied
+303211,34,Male,Introvert,Medium,Medium,Low,Medium,Moderate,7.7,3.7,Gaming,9,Medium,Average,77,Medium,Satisfied
+303212,37,Female,Introvert,High,Low,Low,High,Moderate,4.8,8.1,Exercise,1,Low,Good,99,Low,Neutral
+303213,21,Male,Introvert,Low,Medium,High,High,Low,4.1,4.1,Talking to friends,3,High,Good,52,Medium,Neutral
+303214,54,Female,Ambivert,Low,Medium,Medium,High,Moderate,4.4,5.9,Music,9,Medium,Excellent,100,Medium,Neutral
+303215,19,Other,Introvert,High,Medium,Medium,Medium,High,6.3,8.2,Meditation,1,High,Average,67,High,Neutral
+303216,60,Other,Extrovert,Low,Low,Medium,Medium,Moderate,5.4,5.7,Exercise,9,Low,Poor,81,High,Satisfied
+303217,38,Female,Introvert,High,Low,Low,Medium,Moderate,8.5,6.2,Gaming,9,Medium,Poor,78,Low,Very Satisfied
+303218,50,Female,Introvert,Low,High,Medium,High,Low,8.1,3.1,Gaming,1,Low,Average,78,Medium,Very Satisfied
+303219,42,Other,Extrovert,High,High,High,High,High,6.2,7.5,Journaling,1,High,Average,84,High,Very Satisfied
+303220,53,Male,Introvert,Low,Low,Medium,Medium,High,4.2,10,Exercise,6,High,Good,80,Medium,Neutral
+303221,49,Other,Extrovert,High,Low,Medium,Medium,High,4.9,2.6,Reading,6,High,Average,58,Medium,Dissatisfied
+303222,30,Other,Introvert,Low,Low,Low,Low,Low,8.3,5.1,Meditation,8,High,Excellent,82,Medium,Dissatisfied
+303223,47,Other,Extrovert,Medium,Low,Medium,Low,Moderate,5.7,2.4,Reading,3,Medium,Good,86,High,Satisfied
+303224,57,Other,Introvert,Medium,Low,Medium,Medium,Low,4.1,8.7,Exercise,5,Medium,Excellent,70,Medium,Neutral
+303225,46,Other,Extrovert,High,Low,Low,High,Low,8.5,9.4,Meditation,2,Medium,Average,57,High,Very Satisfied
+303226,50,Other,Extrovert,Low,Medium,Medium,Medium,Moderate,5.1,2.7,Gaming,3,Medium,Good,73,High,Very Satisfied
+303227,51,Male,Ambivert,High,Medium,Medium,Low,High,5.1,3.5,Journaling,4,Medium,Good,84,Medium,Very Satisfied
+303228,47,Male,Extrovert,Low,High,Medium,High,High,5.2,2.1,Reading,4,High,Good,82,Medium,Dissatisfied
+303229,39,Other,Introvert,Low,Medium,Low,Medium,Low,7.3,4,Gaming,4,Medium,Average,96,Low,Very Satisfied
+303230,41,Male,Extrovert,Low,High,High,Medium,Low,7.2,5.6,Journaling,6,Medium,Poor,98,Medium,Very Satisfied
+303231,36,Other,Ambivert,High,Low,High,Low,Moderate,8,8.8,Journaling,9,Low,Excellent,50,Medium,Satisfied
+303232,57,Male,Ambivert,Low,Low,Low,Low,High,7.2,9,Talking to friends,8,High,Excellent,73,Medium,Neutral
+303233,40,Other,Ambivert,Medium,Medium,Medium,Low,Low,4.9,4.8,Exercise,1,Low,Excellent,80,Medium,Very Satisfied
+303234,32,Female,Extrovert,Medium,High,Low,Low,Moderate,5.2,9.6,Music,2,Medium,Poor,68,Low,Satisfied
+303235,33,Other,Extrovert,Medium,Low,Low,Medium,Moderate,6.7,9.1,Reading,2,Medium,Average,81,Low,Very Satisfied
+303236,51,Other,Ambivert,Low,Medium,High,Low,High,6.4,7,Journaling,6,High,Good,93,High,Very Satisfied
+303237,44,Female,Introvert,Medium,Medium,Low,Low,Moderate,4.7,3.3,Meditation,4,High,Good,80,High,Satisfied
+303238,50,Female,Ambivert,High,High,Low,Low,Low,4.2,7.8,Talking to friends,4,Medium,Excellent,78,Medium,Neutral
+303239,39,Male,Introvert,High,Medium,Medium,High,Moderate,4.7,5.2,Journaling,7,Medium,Excellent,59,Low,Satisfied
+303240,46,Other,Extrovert,Medium,High,Low,High,Moderate,7.3,5.4,Talking to friends,4,High,Excellent,96,High,Neutral
+303241,23,Other,Introvert,Medium,High,High,High,Moderate,7.8,10,Gaming,7,Medium,Good,53,High,Neutral
+303242,32,Female,Introvert,Medium,High,Low,High,High,7.5,3.2,Gaming,10,Low,Poor,69,Medium,Satisfied
+303243,43,Other,Introvert,Medium,Medium,Medium,Low,Moderate,4.3,9.8,Meditation,1,Low,Average,72,Medium,Dissatisfied
+303244,26,Female,Extrovert,High,Low,Low,Low,Low,7.8,6,Gaming,6,Low,Excellent,71,Low,Satisfied
+303245,31,Male,Introvert,Medium,Low,Low,Low,Low,8.2,6,Journaling,6,High,Excellent,84,Medium,Satisfied
+303246,42,Other,Introvert,Low,Medium,Medium,Low,High,5,4.9,Music,4,Low,Poor,92,High,Neutral
+303247,48,Male,Extrovert,High,High,Low,High,Low,8.1,7.3,Reading,7,Low,Good,84,High,Very Satisfied
+303248,50,Male,Ambivert,Medium,High,Low,Medium,Moderate,5.5,2.3,Meditation,6,High,Average,97,Medium,Neutral
+303249,41,Other,Extrovert,High,Medium,High,High,High,8.4,7.8,Exercise,10,Medium,Poor,98,Medium,Very Satisfied
+303250,34,Other,Introvert,Medium,Medium,High,Medium,Low,4.2,5.4,Journaling,4,High,Average,93,Low,Neutral
+303251,25,Female,Extrovert,High,Low,Low,High,Moderate,6.3,7.9,Talking to friends,8,Low,Excellent,54,Low,Satisfied
+303252,52,Male,Ambivert,Medium,Low,Low,Medium,Low,4.1,4.1,Journaling,2,Low,Good,62,Low,Very Satisfied
+303253,59,Female,Extrovert,Medium,Medium,Low,Low,Low,8,3.5,Reading,4,Low,Excellent,77,High,Satisfied
+303254,52,Male,Introvert,Medium,Low,Medium,Medium,High,6.4,4.7,Meditation,2,High,Average,72,High,Dissatisfied
+303255,26,Male,Ambivert,Low,High,High,High,Moderate,6.5,2.6,Reading,7,Medium,Good,57,Low,Very Satisfied
+303256,53,Other,Ambivert,Medium,Low,High,Medium,Low,4.9,8,Music,2,Low,Excellent,64,Low,Dissatisfied
+303257,18,Female,Ambivert,High,Low,High,High,Low,6.8,4.3,Music,8,High,Good,86,Medium,Neutral
+303258,43,Male,Extrovert,Low,High,Medium,High,Low,5.8,8.8,Talking to friends,8,Medium,Good,97,Medium,Dissatisfied
+303259,52,Other,Ambivert,Medium,High,Medium,High,High,4.3,7.9,Music,6,High,Excellent,64,High,Neutral
+303260,22,Male,Ambivert,Medium,Medium,Medium,Low,Low,4.4,8.6,Gaming,6,Low,Poor,87,Low,Neutral
